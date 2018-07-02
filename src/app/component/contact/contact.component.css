@@ -1,0 +1,15 @@
+.colorlib-footer ul{
+  list-style: none;
+}
+
+.colorlib-footer ul li {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    list-style: none;
+}
+
+.colorlib-footer ul li a {
+    color: rgba(0, 0, 0, 0.7);
+    padding: 4px;
+}
